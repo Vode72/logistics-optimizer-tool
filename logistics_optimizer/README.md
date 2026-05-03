@@ -6,7 +6,7 @@ Kuljetussuunnittelun optimointityökalu Excelissä.
 
 ## AI Optimizer
 
-![AI Optimizer](images/AI Optimizer.png)
+![AI Optimizer](images/AI_Optimizer.png)
 
 Reittivaihtoehtojen pisteytys km, ajoajan, täyttöasteen ja riskien perusteella.
 
